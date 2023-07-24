@@ -1,0 +1,7 @@
+# CARRERA_UPEA_NUXT
+
+#INSTALACION
+npm install
+
+#DEPLYOMENT
+npm run dev
